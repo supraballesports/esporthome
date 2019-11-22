@@ -7,5 +7,4 @@ Official Supraball organization for making Tournaments/Leagues for the players e
     This site was built using: 
   <ul> <a href="https://mobirise.com/">Mobirise</a> </ul>
 <li><a href="https://pages.github.com/">Github pages</a></li>
-  </li>
 
