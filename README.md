@@ -7,7 +7,7 @@ Official Supraball organization for making Tournaments/Leagues for the players e
 <li>Tournament Manager</li>
   </ul>
 <h1>Creation</h1>
-<b>This site was built using:</b> 
+<b><a href="https://supraballesports.github.io/esporthome/home.html">Our</a> site was created by:</b> 
 <li><a href="https://mobirise.com/">Mobirise</a></li>
 <li><a href="https://pages.github.com/">Github pages</a></li>
 
