@@ -5,6 +5,6 @@ Official Supraball organization for making Tournaments/Leagues for the players e
 - Venezzo - Project creator, Tournament manager
 <h1>Creation</h1> 
 This site was built using: 
-*[GitHub Pages](https://pages.github.com/)
-*[Mobirise](https://mobirise.com/)
+(https://pages.github.com/)
+(https://mobirise.com/)
 
