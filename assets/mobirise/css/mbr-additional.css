@@ -33,11 +33,11 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.6rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -69,9 +69,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -710,6 +710,51 @@ section.lazy-placeholder:after {
 .cid-rImYKi7UJP .body-item {
   color: #232323;
 }
+.cid-rIQExBNgyu {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rIQExBNgyu .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rIQExBNgyu .formoid {
+  margin: auto;
+}
+.cid-rIQExBNgyu .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rIQExBNgyu .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rIQExBNgyu a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rIQExBNgyu a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rIQExBNgyu .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rIQExBNgyu .form-group,
+  .cid-rIQExBNgyu .input-group-btn,
+  .cid-rIQExBNgyu .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rIQExBNgyu .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -1092,8 +1137,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rImL2azDnc {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-rImL2azDnc .row-links {
@@ -1560,9 +1605,77 @@ section.lazy-placeholder:after {
   color: #efefef;
   text-align: center;
 }
+.cid-rIQytBIt7X {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/screenshot17.jpg");
+}
+.cid-rIQytBIt7X .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rIQytBIt7X h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rIQytBIt7X .bottom-line p {
+  color: #ffffff;
+}
+.cid-rIQytBIt7X .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rIQytBIt7X .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-rIQytBIt7X .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-rIQytBIt7X .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rIQytBIt7X .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rIQytBIt7X .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-rIQytBIt7X .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rIQytBIt7X .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-rIQytBIt7X .wrapper {
+    padding-top: 1rem;
+  }
+}
+.cid-rIQytBIt7X .cost {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rIQytBIt7X .card-title {
+  color: #ffffff;
+}
+.cid-rIQytBIt7X H2 {
+  color: #ffffff;
+}
 .cid-rImL2azDnc {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-rImL2azDnc .row-links {
@@ -2103,8 +2216,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rImL2azDnc {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-rImL2azDnc .row-links {
