@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Supraball eSports",
-    "currentPage": "page2.html",
+    "currentPage": "teams.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1349,9 +1349,9 @@
         }
       ]
     },
-    "page2.html": {
+    "teams.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Registered teams of the current tournament.",
         "title": "Teams",
         "order": 1
       },
