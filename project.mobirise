@@ -562,7 +562,7 @@
               }
             },
             ".cost": {
-              "text-align": "center",
+              "text-align": "right",
               "color": "#ffffff"
             },
             ".card-title": {
@@ -570,6 +570,9 @@
             },
             "H2": {
               "color": "#ffffff"
+            },
+            ".cost P": {
+              "text-align": "right"
             }
           },
           "_name": "services6",
